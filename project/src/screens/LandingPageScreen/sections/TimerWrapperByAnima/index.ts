@@ -1,0 +1,1 @@
+export { TimerWrapperByAnima } from "./TimerWrapperByAnima";
