@@ -1,1 +1,0 @@
-export { LandingPageWrapperByAnima } from "./LandingPageWrapperByAnima";

@@ -1,1 +1,0 @@
-export { LandingPageByAnima } from "./LandingPageByAnima";

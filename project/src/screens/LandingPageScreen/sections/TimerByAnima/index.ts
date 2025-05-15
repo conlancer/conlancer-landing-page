@@ -1,1 +1,0 @@
-export { TimerByAnima } from "./TimerByAnima";
